@@ -3,6 +3,7 @@
 function validar_email(email)
 {
   // escreva seu código aqui
+  //FOI ADICIONADO UM CONFLITO AQUI NESSA LINHA
  
 }
   
